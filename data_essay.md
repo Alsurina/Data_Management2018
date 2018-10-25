@@ -10,7 +10,7 @@
 Полученные данные не содержат персональной информации об арендодателях и не будут использоваться в коммерческих целях. Законом использование полученных данных не ограничивается.
 
 ## Лицензия на использование данных
-Creative Common   
+Creative Commons Non-Commercial  
 автор: alsu8rinatovna@gmail.com   
 facebook: https://www.facebook.com/alsu.zaynutdinova
 
